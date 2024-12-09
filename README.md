@@ -24,3 +24,4 @@ response_text = response['choices'][0]['message']['content'].strip()
 
 print("Response from GPT-3.5:", response_text)
 ```
+T-T
